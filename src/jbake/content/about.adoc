@@ -1,7 +1,0 @@
-= About
-Rob Spieldenner
-:jbake-type: page
-:jbake-status: published
-~~~~~~
-
-Testing how this works out.
